@@ -1,6 +1,6 @@
 def sayHello(name=None):
     # Function to print Hello World with the name variable
     if name == None:
-        print("Hello World and Universe")
+        print("Foo Bar")
     else:
-        print("Hello World " + str(name))
+        print("Foo Bar " + str(name))
