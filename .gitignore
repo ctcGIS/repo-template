@@ -1,0 +1,15 @@
+# This file lets you choose specific files, file types, or folders to ignore when making changes to the repository.
+# You can add comments to this file by using the a hashtag (#) before the comment.
+
+# If you added a file called "document_WIP.txt" to the "docs" folder for local use, but didn't want it uploaded to the main online repository, you could add the relative path to that file here and git would ignore the file.
+
+docs/document_WIP.txt
+
+# If you made a folder called "local_testing" and wanted to keep it locally without uploading it, you can ignore and entire folder. To ignore a folder, include a forward slash (/) after the name to indicate that it is a directory.
+
+local_testing/
+
+# If you wanted to ignore any file of a specific file type, you can use an asterisk (*) before the file extension. This will ignore this file type in all subdirectories as well. If you only wanted to ignore that file type in a certain folder, you can add the relative folder path to the front.
+
+*.json
+docs/*.json

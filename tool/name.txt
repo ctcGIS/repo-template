@@ -1,0 +1,9 @@
+As a training exercise, please print your name below and push the change as a commit using git commands or GitHub desktop: 
+
+Stephanie Brim
+
+Gwyneth Welsh (edit 2)
+
+Joseph Neratko
+
+Felipe Sanchez
