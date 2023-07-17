@@ -1,35 +1,29 @@
-<!-- Fork of othneildrew's Best-README-Template: https://github.com/othneildrew/Best-README-Template/ -->
+<!-- Modified fork of othneildrew's Best-README-Template: https://github.com/othneildrew/Best-README-Template/ -->
 <a name="readme-top"></a>
 
 
 
-<!-- PROJECT LOGO -->
-<br />
+<!-- PROJECT HEADER -->
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+  [![Logo][icon-img]][repo-url]
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/graphs/contributors">Contributors</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/blob/master/LICENSE.txt">GPL-3.0 License</a>
+  <h1>
+    Project Title
+    <br>
+    <sub>
+      Subtitle
+    </sub>
+  </h1>
+  <p>
+    Project tagline/description.
+  </p>
+  <p>
+
+[**Explore the docs**][docs-url] · [Report Bug][issues-url] · [Contributors][contributors-url] · [GPL-3.0 License][license-url]
+
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -50,9 +44,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Here's a template to get started. <br>
+To avoid retyping too much info, use Find/Replace to change `repo_name` to the name of the repository.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `project_title`, `project_description`
+![product-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,9 +64,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation][docs-url]_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +75,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you find a bug or want to add a new feature that will be universal to the code, please create and issue and open a new branch from the dev branch. If it is to be a unique version of the code, please annotate as such.
+If you find a bug or want to add a new feature that will be universal to the code, please create and issue and open a new branch.
 
 1. Create an Issue
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -95,7 +90,7 @@ If you find a bug or want to add a new feature that will be universal to the cod
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
+Distributed under the GNU General Public License (GPL) v3.0 License. See [`LICENSE.txt`][license-url] for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,9 +99,11 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- COMPANY -->
 ## Company
 
+![logo-small](https://www.ctcnet.us/)
+
 CTC Technology & Energy - [ctcnet.us](https://www.ctcnet.us/)
 
-Project Link: [repo_name]([repo-url])
+GitHub Profile: [github.com/ctcGIS](https://github.com/ctcGIS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +122,13 @@ Project Link: [repo_name]([repo-url])
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[repo-url]: https://github.com/github_username/repo_name
+[icon-img]: images/icon.png
+[logo-small]: images/logo_small.png
+[repo-url]: https://github.com/ctcGIS/repo_name
+[issues-url]: https://github.com/ctcGIS/repo_name/issues
+[docs-url]: https://github.com/ctcGIS/repo_name/tree/main/docs
+[contributors-url]: https://github.com/ctcGIS/repo_name/graphs/contributors
+[license-url]: https://github.com/ctcGIS/repo_name/blob/main/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/python-3-blue?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/ 
