@@ -43,7 +43,8 @@
 
 <!-- FIRST STEP -->
 # !!! Before continuing !!!<br>
-To simplify working with GitHub, please download and install [GitHub Desktop](https://desktop.github.com).
+To simplify working with GitHub, please download and install [GitHub Desktop][github-desktop-url].
+[![GitHub Desktop][github-desktop-img]][github-desktop-url]
 
 
 
@@ -51,6 +52,7 @@ To simplify working with GitHub, please download and install [GitHub Desktop](ht
 ## About The Project
 
 Here's a template to get started. <br>
+Feel free to update this README file for your project after creating a new repository from this template. <br>
 When editing this README file, use Find/Replace to change `repo_name` to the name of the repository.
 
 ### Steps to create a new repository
@@ -152,6 +154,7 @@ GitHub Profile: [github.com/ctcGIS][ctc-github]
 [icon-img]: images/icon.png
 [logo-small]: images/logo_small.png
 [logo-large]: images/logo_large.png
+[github-desktop-img]: images/download_github_desktop.png
 [step1]: images/step1.png
 [step2]: images/step2.png
 [step3]: images/step3.png
@@ -162,6 +165,7 @@ GitHub Profile: [github.com/ctcGIS][ctc-github]
 <!-- LINKS -->
 [ctc-url]: https://www.ctcnet.us
 [ctc-github]: https://github.com/ctcGIS
+[github-desktop-url]: https://desktop.github.com
 [repo-url]: https://github.com/ctcGIS/repo_name
 [issues-url]: https://github.com/ctcGIS/repo_name/issues
 [docs-url]: https://github.com/ctcGIS/repo_name/tree/main/docs
