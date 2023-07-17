@@ -41,13 +41,39 @@
 
 
 
+<!-- FIRST STEP -->
+# !!! Before continuing !!!<br>
+To simplify working with GitHub, please download and install [GitHub Desktop](https://desktop.github.com).
+
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Here's a template to get started. <br>
-To avoid retyping too much info, use Find/Replace to change `repo_name` to the name of the repository.
+When editing this README file, use Find/Replace to change `repo_name` to the name of the repository.
 
-![product-screenshot]
+### Steps to create a new repository
+
+1. At the top of this repository, click the green "**Use this template**" button and choose "**Create a new repository**".
+   ![step1]
+
+2. Fill in the "**Repository name**" and "**Description**" fields and leave the default settings.
+   ![step2]
+
+3. Once the new repository is set up, click the green "**Code**" button at the top of the repo and choose "**Open with GitHub Desktop**".
+   ![step3]
+
+4. The GitHub Desktop program will open to the "**Clone a repository**" dialogue. Choose the path where the repository will be stored on your computer and click "**Clone**".
+   ![step4]
+
+5. In the new repository folder, remove any unnecessary placeholder files left from the template repository. Add your project files to the repository folder.
+
+6. In GitHub Desktop, once your changes are ready, create a commit of your changes.
+   ![step6]
+
+7. After the commit is created, click "**Push origin**" (this uploads your new changes to the online repository).
+   ![step7]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,9 +148,18 @@ GitHub Profile: [github.com/ctcGIS][ctc-github]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- IMAGES -->
 [icon-img]: images/icon.png
 [logo-small]: images/logo_small.png
 [logo-large]: images/logo_large.png
+[step1]: images/step1.png
+[step2]: images/step2.png
+[step3]: images/step3.png
+[step4]: images/step4.png
+[step6]: images/step6.png
+[step7]: images/step7.png
+
+<!-- LINKS -->
 [ctc-url]: https://www.ctcnet.us
 [ctc-github]: https://github.com/ctcGIS
 [repo-url]: https://github.com/ctcGIS/repo_name
@@ -132,6 +167,5 @@ GitHub Profile: [github.com/ctcGIS][ctc-github]
 [docs-url]: https://github.com/ctcGIS/repo_name/tree/main/docs
 [contributors-url]: https://github.com/ctcGIS/repo_name/graphs/contributors
 [license-url]: https://github.com/ctcGIS/repo_name/blob/main/LICENSE.txt
-[product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/python-3-blue?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/ 
