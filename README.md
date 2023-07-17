@@ -6,7 +6,7 @@
 <!-- PROJECT HEADER -->
 <div align="center">
 
-  [![Logo][icon-img]][repo-url]
+  [![Icon][icon-img]][repo-url]
 
   <h1>
     Project Title
@@ -99,11 +99,11 @@ Distributed under the GNU General Public License (GPL) v3.0 License. See [`LICEN
 <!-- COMPANY -->
 ## Company
 
-![logo-small](https://www.ctcnet.us/)
+<br>
 
-CTC Technology & Energy - [ctcnet.us](https://www.ctcnet.us/)
+[![Logo][logo-large]][ctc-url]
 
-GitHub Profile: [github.com/ctcGIS](https://github.com/ctcGIS)
+GitHub Profile: [github.com/ctcGIS][ctc-github]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,6 +124,9 @@ GitHub Profile: [github.com/ctcGIS](https://github.com/ctcGIS)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [icon-img]: images/icon.png
 [logo-small]: images/logo_small.png
+[logo-large]: images/logo_large.png
+[ctc-url]: https://www.ctcnet.us
+[ctc-github]: https://github.com/ctcGIS
 [repo-url]: https://github.com/ctcGIS/repo_name
 [issues-url]: https://github.com/ctcGIS/repo_name/issues
 [docs-url]: https://github.com/ctcGIS/repo_name/tree/main/docs
